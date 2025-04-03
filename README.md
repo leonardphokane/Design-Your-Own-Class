@@ -3,7 +3,7 @@
 # Pseudocode
 1. **Define a Class**
 Define a class with a descriptive name (e.g., Smartphone, Book, Superhero).
-1. Add Attributes
+2. # Add Attributes
 Inside the class, define attributes that represent characteristics of the object (e.g., model, color, battery_level for Smartphone).
 Add Methods
 Define methods to simulate actions or behaviors (e.g., make_call() for a Smartphone).
